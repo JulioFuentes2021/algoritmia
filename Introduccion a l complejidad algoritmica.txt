@@ -1,0 +1,20 @@
+Introduccion a la complejidad algoritmica
+
+Tiempo:
+Representados en milisegundos, segundos, minutos, etc.
+
+Espacio
+Representado en bytes, kilobytes, megabytes, etc.
+
+Medir los recursos
+Para obtener cuantos recursos utiliza un algoritmo, solo medimos los recursos.
+
+Vamos a tomar cuanto tiempo y cuanto espacio ocupa un algoritmo.
+
+Teoria de la complejidad
+Estudia el consumo de recursos que un algoritmo ocupa.
+
+La complejidad se basa en el crecimiento
+En la complejidad queremos entender el crecimiento de recursos, no su tamanio.
+
+El crecimiento de recursos importa.

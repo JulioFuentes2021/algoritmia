@@ -1,0 +1,20 @@
+Estructura de un algoritmo
+
+Que es un algoritmo?
+Es una solucion representada con codigo a un determinado a un problema.
+
+Entrada => Proceso => Salida
+
+algoritmo
+Un algoritmo es una secuencia de instrucciones.
+
+Como elegir un buen algoritmo?
+Un mismo problema, diferentes soluciones
+
+Que evaluamos de un algoritmo?
+R// Tiempo(cuanto tarda el algoritmo) y Espacio(cuanto espacio en memoria ocupa un algoritmo)
+
+En dispositivos embebidos, el buen manejo de la memoria es critico.
+
+Rendimiento en JS
+El tiempo es un factor mas importante en JS.

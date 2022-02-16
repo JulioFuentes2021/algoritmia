@@ -1,0 +1,18 @@
+Complejidad temporal
+
+Situacion
+Necesitamos un algoritmo rapido que obtenga el promedio de puntos PlatziRank de una lista de X estudiantes.
+
+Tenemos 4 algoritmos: Experto, Astronauta, Nova y Vision.
+
+Cual elegimos?
+
+Complejidad temporal
+No es sobre cuantos segundos mas o menos un algoritmo se demore en ejecutarse.
+
+Si no como aumenta el tiempo.
+
+Interfaz performance
+El meotdo performance.now() nos ayuda a medir el tiempo entre dos lineas de codigo en milisegundos.
+
+Existe otro metodo: console.time(), pero no es tan preciso como performance.now().

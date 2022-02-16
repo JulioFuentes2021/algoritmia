@@ -1,0 +1,6 @@
+Complejidad espacial
+
+Cuando trabajamos con grandes cantidades de datos tendremos que almacenar informacion en otras partes.
+
+Espacion auxiliar
+La complejidad espacial incluye el espacio auxiliar y el espacio ocupado por los datos de entrada.
